@@ -2,13 +2,13 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas (ADS) focado em me tornar um **Desenvolvedor Web Full Stack** completo e preparado para o mercado.
 
-### 🧠 Minha Jornada (Convertendo café em código)
+## 🧠 Minha Jornada (Convertendo café em código)
 
 Atualmente estou no 3º semestre da faculdade. No meu dia a dia, estudo e desenvolvo aplicações utilizando **HTML, CSS, JavaScript e Python**, sempre priorizando a escrita de código limpo, boas práticas e arquiteturas robustas.
 
 Tenho grande interesse em engenharia web de ponta a ponta: desde a concepção de interfaces modernas, fluidas e responsivas focadas na experiência do usuário (UX), até a construção de APIs eficientes e modelagem de bancos de dados.
 
-### 🛠️ Meu Setup de Ferramentas & Tecnologias
+## 🛠️ Meu Setup de Ferramentas & Tecnologias
 
 <p align="center">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
@@ -21,7 +21,7 @@ Tenho grande interesse em engenharia web de ponta a ponta: desde a concepção d
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-### 📜 Minha Base de Conhecimento
+## 📜 Minha Base de Conhecimento
 
 * **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
   *União das Faculdades dos Grandes Lagos (Unilago)* — 2025 • 2027
